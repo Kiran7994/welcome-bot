@@ -1,4 +1,4 @@
-# MT-WELCOME-BOT
+# fg-WELCOME-BOT
 ```
 Very Easy Bot || Telegaram Bot ||Simple Welcome Message Bot|| Mo Tech YouTube Channel
 ```
@@ -6,8 +6,8 @@ Very Easy Bot || Telegaram Bot ||Simple Welcome Message Bot|| Mo Tech YouTube Ch
 ## Dev Details 👤:
 
 <p align="middle">
-<img src="https://telegra.ph/file/9e831d15da94deb56ef4c.jpg" width="150" height="150"><br>
-<img src="https://badgen.net/badge/Name/MRK-YT/FF33FF?icon=awesome&labelColor=0080FF"></a>
+<img src="https://telegra.ph/file/8ee4aeba2c12e7f82f166.jpg" width="150" height="150"><br>
+<img src=(https://telegra.ph/file/dc7103a6822a298e53e8f.jpg)](t.me/@uniunioo)></a>
 <img src="https://badgen.net/badge/Skills/😞/purple?icon=terminal&labelColor=red"></a>
 <a href="https://telegram.dog/MRK_yt"><img src="https://img.shields.io/badge/Telegram-Link-blue.svg?logo=telegram"></a>
 <a href="https://github.com/MRK-YT"><img src="https://badgen.net/badge/Follow%20on%20/Github/80FF00?icon=github&labelColor=black"></a>
